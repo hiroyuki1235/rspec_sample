@@ -64,6 +64,7 @@ group :development do
   # gem "spring"
 
   gem "spring-commands-rspec"
+  gem "factory_bot_rails"
 end
 
 gem "rspec-rails"
